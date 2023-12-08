@@ -349,7 +349,7 @@ Prompt in Morse Code:
     </blockquote>
 </details>
 
-This got me suspicious because it had the same weird word in the response, which was definitely not in the Morse Code. So I modified this prompt to include some Englihs, like this...
+This got me suspicious because it had the same weird word in the response, which was definitely not in the Morse Code. So I modified this prompt to include some English, like this...
 
 Prompt:
 ```text
